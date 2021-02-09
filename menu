@@ -1,0 +1,226 @@
+<!-- menu section -->
+    <section id="menu">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <!-- title -->
+                    <div class="row">
+                        <div class="col">
+                            <h1 class="primary-color text-uppercase">
+                                Meals
+                        </h1>
+                    </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3">
+                        <div>
+                            <h2 class="text-uppercase text-dark">Fried Rice</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3 special">
+                        <div>
+                            <h2 class="text-uppercase text-dark">Jollof Rice</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                            <h3 class="special-text text-capitalize">ChopBeta</h3>
+                        </div>
+                    </div>
+
+                    <!-- title -->
+                    <div class="row">
+                        <div class="col">
+                            <h1 class="primary-color text-uppercase">
+                                Grills
+                        </h1>
+                    </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3">
+                        <div>
+                            <h2 class="text-uppercase text-dark">Grilled Chicken</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3 special">
+                        <div>
+                            <h2 class="text-uppercase text-dark">Grilled fish</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                            <h3 class="special-text text-capitalize">ChopBeta</h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <h1 class="primary-color text-uppercase">
+                                trays
+                        </h1>
+                    </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3">
+                        <div>
+                            <h2 class="text-uppercase text-dark">Breakfast tray</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3 special">
+                        <div>
+                            <h2 class="text-uppercase text-dark">Dinner tray</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                        </div>
+                    </div>
+                    
+                <div class="col my-6">
+                    <!-- title -->
+                    <div class="row">
+                        <div class="col">
+                            <h1 class="primary-color text-uppercase">
+                                soups
+                        </h1>
+                    </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3 special">
+                        <div>
+                            <h2 class="text-uppercase text-dark">sides</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                            <h3 class="special-text text-capitalize">ChopBeta</h3>
+                        </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3 ">
+                        <div>
+                            <h2 class="text-uppercase text-dark">sides</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
+
+                    <!-- title -->
+                    <div class="row">
+                        <div class="col">
+                            <h1 class="primary-color text-uppercase">
+                                bakes
+                        </h1>
+                    </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3 special">
+                        <div>
+                            <h2 class="text-uppercase text-dark">sides</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                            <h3 class="special-text text-capitalize">ChopBeta</h3>
+                        </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3 ">
+                        <div>
+                            <h2 class="text-uppercase text-dark">sides</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <h1 class="primary-color text-uppercase">
+                                sides
+                        </h1>
+                    </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3 special">
+                        <div>
+                            <h2 class="text-uppercase text-dark">sides</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                            <h3 class="special-text text-capitalize">ChopBeta</h3>
+                        </div>
+                    </div>
+                    <!-- single item -->
+                    <div class="single-item d-flex justify-content-between my-3 p-3 ">
+                        <div>
+                            <h2 class="text-uppercase text-dark">sides</h2>
+                        <h4 class="text-muted">Lorem ipsum dolor sit amet.
+                        </h4>
+                        </div>
+                        <div class="single-item-text">
+                            <div class="single-item-price align-self-end">
+                                <h1 class="text-uppercase text-dark">$10</h1>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- #####about### -->

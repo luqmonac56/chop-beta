@@ -1,0 +1,75 @@
+.tabs-container{
+    width: 90%;
+    /* border: 1px solid #eee; */
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.tabHeader{
+    border: none;
+    outline: none;
+    background: transparent;
+/*    color: #c9c1ac;*/
+    padding: 6px 12px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.active-tab {
+    border: 1px solid #000 !important;
+    border-bottom: none !important;
+}
+
+.tabSection{
+    border: 1px solid #000;
+    padding: 15px;
+}
+
+.hide-tab{
+    display: none;
+}
+
+.show-tab{
+    display: block;
+}
+
+span{
+    align-content: flex-end;
+}
+
+.dropdown {
+/*    margin-top: 50px;*/
+    /* font-size: 3em; */
+    color: #B51D1D;
+    /* position: relative; */
+    display: inline-block;
+    background: #eee;
+    text-align: center;
+    justify-content: center;
+    height: 20px;
+    width: 100px;
+    border-radius: 20px;
+    align-content: center;
+    transition: .4s transform cubic-bezier(0,.12,.14,1);
+    
+}
+.dropdown-content {
+    display: none;
+    /* position: fixed; */
+    background-color: #eee;
+    min-width: 130px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+/*    z-index: 3;*/
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+  
+}
+
+.list{
+    color: red;
+}
